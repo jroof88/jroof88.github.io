@@ -1,0 +1,6 @@
+January 27 Aluminum 2.08
+January 27 Copper 1.61
+January 27 Copper 0.39
+January 27 Copper 0.29
+January 27 Paper 0.73
+January 27 Paper 0.21

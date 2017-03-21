@@ -44,8 +44,6 @@ h3 {
 }
 
 #projects img {
-	height:250px;
-	width:250px;
 	border-radius:10px;
 }
 
@@ -71,8 +69,8 @@ h3 {
 	text-align: center;
 }
 
-#footer_list ul li { 
-	display: inline; 
+#footer_list ul li {
+	display: inline;
 }
 
 
