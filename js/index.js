@@ -3,4 +3,4 @@ function activeTab(id){
       $('#'+element.id).removeClass("active");
   });
   $('#'+id).addClass("active");
-}
+};
